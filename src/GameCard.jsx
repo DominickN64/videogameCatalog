@@ -3,7 +3,7 @@ import React from 'react';
 
 const GameCard = ({ game }) => {
     return (
-        <div className="movie">
+        <div className="game">
             <div>
                 <p>{game.released}</p>
             </div>
